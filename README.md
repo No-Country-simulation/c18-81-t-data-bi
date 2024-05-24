@@ -9,8 +9,8 @@
 ## Industria o Rubro
 Ecommerce
 
-## Descripción
-Deseamos saber el comportamiento de nuestros clientes y sobre los artículos que dejan en el carrito de compras. Realizaremos un análisis para determinar lo que está sucediendo. El objetivo principal es identificar posibles razones detrás de este fenómeno y proponer estrategias efectivas para aumentar la retención y conversión de clientes.
+## Descripción del Proyecto
+El Análisis de Carrito Abandonado es un proyecto diseñado para investigar y comprender el comportamiento de los usuarios que abandonan el carrito de compras en un sitio web de e-commerce. El objetivo principal es identificar posibles razones detrás de este fenómeno y proponer estrategias efectivas para aumentar la retención y conversión de clientes.
 
 ## Desarrolladores
 - **Nahir Maraz** - Científico de Datos - [LinkedIn](https://www.linkedin.com/in/marlen-nahir-maraz)
@@ -27,8 +27,7 @@ Deseamos saber el comportamiento de nuestros clientes y sobre los artículos que
 - [Repositorio en GitHub](enlace_al_repositorio)
 - [Sitio Web del Proyecto](enlace_al_sitio_web)
 
-## Descripción del Proyecto
-El Análisis de Carrito Abandonado es un proyecto diseñado para investigar y comprender el comportamiento de los usuarios que abandonan el carrito de compras en un sitio web de e-commerce. El objetivo principal es identificar posibles razones detrás de este fenómeno y proponer estrategias efectivas para aumentar la retención y conversión de clientes.
+
 
 ### Preguntas Clave
 - ¿En qué punto del proceso de compra los usuarios tienden a abandonar sus carritos?
