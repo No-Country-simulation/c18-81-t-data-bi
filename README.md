@@ -13,10 +13,10 @@ Ecommerce
 El Análisis de Carrito Abandonado es un proyecto diseñado para investigar y comprender el comportamiento de los usuarios que abandonan el carrito de compras en un sitio web de e-commerce. El objetivo principal es identificar posibles razones detrás de este fenómeno y proponer estrategias efectivas para aumentar la retención y conversión de clientes.
 
 ## Desarrolladores
-- **Nahir Maraz** - Científico de Datos - [LinkedIn](https://www.linkedin.com/in/marlen-nahir-maraz)
-- **Víctor Rincon** - Científico de Datos - [LinkedIn](http://www.linkedin.com/in/victor-rincon3128)
-- **Samuel Juan** - Analista de Datos - [LinkedIn](http://www.linkedin.com/in/samuel-luis-juan-guerrero-0ab3a8281)
-- **Daniela Puebla** - Analista de Datos y Analista BI - [LinkedIn](http://linkedin.com/in/daniela-pueblam31)
+- **Nahir Maraz** - Científico  e Ingeniero de Datos - [LinkedIn](https://www.linkedin.com/in/marlen-nahir-maraz)
+- **Víctor Rincon** - Científico  e Ingeniero - [LinkedIn](http://www.linkedin.com/in/victor-rincon3128)
+- **Samuel Juan** - Analista de Datos y Analistas Funcionales - [LinkedIn](http://www.linkedin.com/in/samuel-luis-juan-guerrero-0ab3a8281)
+- **Daniela Puebla** - Analista de Datos y Analistas Funcionales - [LinkedIn](http://linkedin.com/in/daniela-pueblam31)
 
 ## Tecnologías
 - SQL
