@@ -5,11 +5,6 @@
 
 # Análisis de Carrito Abandonado
 
-Uso del Proyecto:
-
-Contacto: Para más información o consultas sobre el proyecto, por favor contacta a uno de los colaboradores a través de sus perfiles de LinkedIn.
-
-# Estudio sobre el Carrito de Compra
 
 ## Industria o Rubro
 Ecommerce
@@ -17,7 +12,7 @@ Ecommerce
 ## Descripción
 Deseamos saber el comportamiento de nuestros clientes y sobre los artículos que dejan en el carrito de compras. Realizaremos un análisis para determinar lo que está sucediendo. El objetivo principal es identificar posibles razones detrás de este fenómeno y proponer estrategias efectivas para aumentar la retención y conversión de clientes.
 
-## Colaboradores
+## Desarrolladores
 - **Nahir Maraz** - Científico de Datos - [LinkedIn](https://www.linkedin.com/in/marlen-nahir-maraz)
 - **Víctor Rincon** - Científico de Datos - [LinkedIn](http://www.linkedin.com/in/victor-rincon3128)
 - **Samuel Juan** - Analista de Datos - [LinkedIn](http://www.linkedin.com/in/samuel-luis-juan-guerrero-0ab3a8281)
@@ -67,8 +62,6 @@ Para este proyecto, se utilizarán datos simulados de carritos abandonados, disp
 3. **Análisis de Datos**: Con el archivo en….. se exploran los datos para identificar patrones y tendencias.
 4. **Visualización**: En Power Bi se generan gráficos y visualizaciones que ayudan a entender mejor los datos.
 
-## Licencia
-Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](enlace_al_archivo_LICENSE) para más detalles.
 
 ## Contacto
 Para más información o consultas sobre el proyecto, por favor contacta a uno de los colaboradores a través de sus perfiles de LinkedIn.
