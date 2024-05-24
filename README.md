@@ -14,7 +14,7 @@ El Análisis de Carrito Abandonado es un proyecto diseñado para investigar y co
 
 ## Desarrolladores
 - **Nahir Maraz** - Científico  e Ingeniero de Datos - [LinkedIn](https://www.linkedin.com/in/marlen-nahir-maraz)
-- **Víctor Rincon** - Científico  e Ingeniero - [LinkedIn](http://www.linkedin.com/in/victor-rincon3128)
+- **Víctor Rincon** - Científico  e Ingeniero de Datos - [LinkedIn](http://www.linkedin.com/in/victor-rincon3128)
 - **Samuel Juan** - Analista de Datos y Analistas Funcionales - [LinkedIn](http://www.linkedin.com/in/samuel-luis-juan-guerrero-0ab3a8281)
 - **Daniela Puebla** - Analista de Datos y Analistas Funcionales - [LinkedIn](http://linkedin.com/in/daniela-pueblam31)
 
