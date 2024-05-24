@@ -1,5 +1,5 @@
 
-## Languages I know
+## Languages ​​we work
 <div style="display: flex;">
 <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" alt="Python" width="50px" style="max-width:100%; height:auto;" title="Python">
 <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3218313/markdown-icon-md.png" alt="Markdown" width="50px" style="max-width:100%; height:auto;" title="Markdown">
