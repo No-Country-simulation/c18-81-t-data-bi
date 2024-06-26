@@ -46,66 +46,103 @@
 # Análisis de Carrito Abandonado
 
 
-## Industria o Rubro
-Ecommerce
+## *Industria o Rubro:* 
+E-commerce
 
-## Descripción del Proyecto
+## *Descripción:* 
+Deseamos saber el comportamiento de nuestros clientes y sobre los artículos que dejan en el carrito de compras. Realizaremos un análisis para determinar lo que está sucediendo. El objetivo principal es identificar posibles razones detrás de este fenómeno y proponer estrategias efectivas para aumentar la retención y conversión de clientes.
+
+
+## *Descripción del Proyecto:* 
 El Análisis de Carrito Abandonado es un proyecto diseñado para investigar y comprender el comportamiento de los usuarios que abandonan el carrito de compras en un sitio web de e-commerce. El objetivo principal es identificar posibles razones detrás de este fenómeno y proponer estrategias efectivas para aumentar la retención y conversión de clientes.
 
-## Desarrolladores
-- **Nahir Maraz** - Científico  e Ingeniero de Datos - [LinkedIn](https://www.linkedin.com/in/marlen-nahir-maraz)
-- **Víctor Rincon** - Científico  e Ingeniero de Datos - [LinkedIn](http://www.linkedin.com/in/victor-rincon3128)
-- **Samuel Juan** - Analista de Datos y Analistas Funcionales - [LinkedIn](http://www.linkedin.com/in/samuel-luis-juan-guerrero-0ab3a8281)
-- **Daniela Puebla** - Analista de Datos y Analistas Funcionales - [LinkedIn](http://linkedin.com/in/daniela-pueblam31)
 
-## Tecnologías
-- SQL
-- Python
-- Power BI
+## *Preguntas Clave:*
+-	¿En qué punto del proceso de compra los usuarios tienden a abandonar sus carritos?
 
-## Enlaces del Proyecto
-- [Repositorio en GitHub](enlace_al_repositorio)
-- [Sitio Web del Proyecto](enlace_al_sitio_web)
+-	¿Existen patrones comunes entre los usuarios que abandonan el carrito?
 
+-	¿Qué factores (precio, costos de envío, usabilidad del sitio, etc.) influyen más en la decisión de abandonar el carrito?
 
+-	¿Qué estrategias pueden implementarse para reducir la tasa de abandono y mejorar la experiencia del usuario?
 
-### Preguntas Clave
-- ¿En qué punto del proceso de compra los usuarios tienden a abandonar sus carritos?
-- ¿Existen patrones comunes entre los usuarios que abandonan el carrito?
-- ¿Qué factores (precio, costos de envío, usabilidad del sitio, etc.) influyen más en la decisión de abandonar el carrito?
-- ¿Qué estrategias pueden implementarse para reducir la tasa de abandono y mejorar la experiencia del usuario?
+## *Características del Proyecto:*
+-	*Modelado Predictivo:* Implementación de modelos predictivos para identificar usuarios con alta probabilidad de abandonar el carrito.
 
-## Características del Proyecto
-- **Modelado Predictivo**: Implementación de modelos predictivos para identificar usuarios con alta probabilidad de abandonar el carrito.
-- **Análisis de Datos**: Uso de técnicas de análisis de datos para explorar y comprender el comportamiento del usuario.
-- **Visualización de Datos**: Creación de gráficos y visualizaciones que faciliten la interpretación de los datos y hallazgos.
-- **Propuestas de Estrategias**: Desarrollo de recomendaciones y estrategias basadas en los insights obtenidos del análisis.
+-	*Análisis de Datos:* Uso de técnicas de análisis de datos para explorar y comprender el comportamiento del usuario.
 
-## Fuente de Datos
+-	*Visualización de Datos:* Creación de gráficos y visualizaciones que faciliten la interpretación de los datos y hallazgos.
+
+-	*Propuestas de Estrategias:* Desarrollo de recomendaciones y estrategias basadas en los insights obtenidos del análisis.
+
+## *Fuente de Datos:*
 Para este proyecto, se utilizarán datos simulados de carritos abandonados, disponibles en plataformas como Kaggle. Los conjuntos de datos incluirán información como:
-- ID del usuario
-- ID del producto
-- Precio del producto
-- Cantidad de productos en el carrito
-- Tiempo pasado en el sitio
-- Páginas visitadas antes del abandono
-- Fecha y hora de la sesión
-- Información demográfica (edad, ubicación, etc.)
-- Métodos de pago seleccionados
+
+-	ID del usuario
+
+-	Precio del producto
+
+-	Cantidad de productos en el carrito
+
+-	Tiempo pasado en el sitio
+
+-	Fecha y hora de la sesión
+
+-	Información demográfica (sexo, ubicación)
+
+-	Métodos de pago seleccionados
 
 
-## Uso del Proyecto
 
-1. **Preparación de Datos**: Con el Dataset ….., se realiza la limpieza y preparación de los datos.
-2. **Modelado**: En (programa, Notebook, etc), se crean y evalúan modelos predictivos para prever el abandono del carrito.
-3. **Análisis de Datos**: Con el archivo en….. se exploran los datos para identificar patrones y tendencias.
-4. **Visualización**: En Power Bi se generan gráficos y visualizaciones que ayudan a entender mejor los datos.
+## *Uso del Proyecto:*
+1.	*Preparación de Datos:* Con el Dataset ….., se realiza la limpieza y preparación de los datos.
+2.	*Modelado:* En (programa, Notebook, etc), se crean y evalúan modelos predictivos para prever el abandono del carrito.
+3.	*Análisis de Datos:* Con el archivo en….. se exploran los datos para identificar patrones y tendencias.
+4.	*Visualización:* En Power Bi se generan gráficos y visualizaciones que ayudan a entender mejor los datos.
 
 
-## Contacto
+## KPI Calculados
+
+### 1. Porcentaje de Compras (KPI 1)
+- **Descripción**: Mide el porcentaje de compras realizadas respecto al total de compras.
+- **Fórmula**: 
+  Porcentaje de Compras = (Compras Realizadas / Total de Compras) × 100
+
+### 2. Porcentaje de Compras por Género (KPI 2)
+- **Descripción**: Mide el porcentaje de compras realizadas por hombres y mujeres.
+- **Fórmula para Hombres**: 
+  Porcentaje de Compras (Hombres) = (Compras Realizadas por Hombres / Total de Compras) × 100
+- **Fórmula para Mujeres**: 
+  Porcentaje de Compras (Mujeres) = (Compras Realizadas por Mujeres / Total de Compras) × 100
+
+### 3. Compras por Método de Pago (KPI 3)
+- **Descripción**: Mide el porcentaje de compras realizadas en efectivo y con tarjeta de crédito, subdividido por el número de cuotas.
+- **Fórmulas**:
+  - **Efectivo**: 
+    Porcentaje de Compras (Efectivo) = (Compras en Efectivo / Total de Compras) × 100
+  - **Tarjeta de Crédito 1 Cuota**: 
+    Porcentaje de Compras (1 Cuota) = (Compras en 1 Cuota / Total de Compras) × 100
+  - **Tarjeta de Crédito 3 Cuotas**: 
+    Porcentaje de Compras (3 Cuotas) = (Compras en 3 Cuotas / Total de Compras) × 100
+  - **Tarjeta de Crédito 6 Cuotas**: 
+    Porcentaje de Compras (6 Cuotas) = (Compras en 6 Cuotas / Total de Compras) × 100
+
+### 4. Porecentaje de Productos Deaseados vs comprados (KPI 4)
+- **Descripción**: Mide el porcentaje de ventas de  productos  en relación a los productos deseados del total de compras.
+- **Fórmula**: Porcentaje ventas deseadas = (Ventas deseadas / Total de Compras) × 100
+
+
+##*Enlaces del Proyecto:*
+
+- Repositorios en GitHub: https://github.com/No-Country/c18-81-t-data-bi , https://github.com/Samuelluisjuan/Analisis-Abandono-de-Carrito , https://github.com/Danny3431/Analisis-de-carro-de-compras-NoCountry 
+
+- Sitio Web del Proyecto:  https://app.powerbi.com/view?r=eyJrIjoiNTU3ZGYyZTUtZDQzZS00MTcwLThjY2YtY2E0MzYyOGY1MjI3IiwidCI6ImZhZTJmNWI5LTY3MTEtNGYyYy1iYWUzLTI2ZGIzM2M2M2QzZCIsImMiOjR9
+
+## *Desarrolladores:*
+
+- **Nahir Maraz** - Científico de Datos - [LinkedIn](https://www.linkedin.com/in/marlen-nahir-maraz)
+- **Daniela Puebla** - Analista de Datos y Analista BI - [LinkedIn](http://linkedin.com/in/daniela-pueblam31)
+  
 Para más información o consultas sobre el proyecto, por favor contacta a uno de los colaboradores a través de sus perfiles de LinkedIn.
-
-
-
 
 
